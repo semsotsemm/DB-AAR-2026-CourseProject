@@ -1,0 +1,39 @@
+{
+  "unchanged_sources": [
+    "Пояснительная записка Антипов.docx",
+    "Пояснительная записка Антипов(старая).docx"
+  ],
+  "source_front_matter_text_preserved": true,
+  "table_count_in_model": 12,
+  "relationships_in_model": 15,
+  "word_figures": 2,
+  "word_tables": 7,
+  "drawio_xml_integrity": "passed",
+  "toc_chapter_pages": {
+    "ВВЕДЕНИЕ": 5,
+    "Постановка задачи": 6,
+    "Проектирование базы данных": 10,
+    "Разработка объектов базы данных": 15,
+    "СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ": 22
+  },
+  "pdf_pages": 22,
+  "parts_changed_by_authoring_or_word_refresh": [
+    "[Content_Types].xml",
+    "word/document.xml",
+    "word/_rels/document.xml.rels",
+    "word/footnotes.xml",
+    "word/endnotes.xml",
+    "word/header1.xml",
+    "word/settings.xml",
+    "word/numbering.xml",
+    "word/styles.xml",
+    "word/fontTable.xml",
+    "docProps/core.xml",
+    "docProps/app.xml"
+  ],
+  "removed_original_parts": [],
+  "live_toc_field": [
+    " TOC \\o \"1-2\" \\h \\z \\u \\b CourseMainText "
+  ],
+  "reviewed_page_images": ".work/final/page-1.png through page-22.png"
+}

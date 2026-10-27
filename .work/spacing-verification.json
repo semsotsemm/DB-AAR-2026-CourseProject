@@ -1,0 +1,20 @@
+{
+  "target": "D:\\WorkSpace\\DB-AAR-2026-CourseProject\\Пояснительная записка Антипов — исправленное оформление.docx",
+  "backup": "D:\\WorkSpace\\DB-AAR-2026-CourseProject\\.work\\before-formatting-20261027.docx",
+  "pages": 23,
+  "verified": [
+    "23 pages visually inspected",
+    "front pages unchanged",
+    "all media byte-identical",
+    "source body paragraphs preserved",
+    "14 pt before figures",
+    "subsection gaps 18/12 pt",
+    "adjacent chapter/subsection gap 12 pt",
+    "all chapters start new pages",
+    "no forced subsection breaks",
+    "all tables and following prose on same page",
+    "prose follows both figures on same page",
+    "native TOC updated"
+  ],
+  "sha256": "e66dc635613a7faf66c82d1b230c7aea40d1d738e5db769a9baabf45ff8be342"
+}
